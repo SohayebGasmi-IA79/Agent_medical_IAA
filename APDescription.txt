@@ -1,0 +1,1 @@
+( ap-description  :name "medical-platform" :ap-services (set ( ap-service  :name fipa.mts.mtp.http.std :type fipa.mts.mtp.http.std :addresses (sequence http://gotrinx-x8664:7778/acc))))
