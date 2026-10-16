@@ -125,7 +125,7 @@ public class AgentPatient extends Agent {
                 if (coord == null) {
                     if (frame != null) {
                         frame.afficherErreur(
-                                "❌ Agent Coordinateur introuvable dans le DF.\n\n"
+                                "Agent Coordinateur introuvable dans le DF.\n\n"
                               + "Vérifiez que le Main Container JADE est bien démarré\n"
                               + "et que l'agent Coordinateur s'est enregistré\n"
                               + "auprès du Directory Facilitator.");
